@@ -25,7 +25,7 @@ SECRET_KEY = '1r68_#6@^&a+dqcjwr!12)(1#8%w2(ge6o1(=1q*93%(qd*kzg'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['icelik.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1','icelik.pythonanywhere.com']
 
 
 # Application definition
